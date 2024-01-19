@@ -1,3 +1,0 @@
-﻿  LibAppMain_prof.cpp
-D:\C++_edit_comments\work_shops\OOP244_EnglishVersion\MS5\MS5\LibAppMain_prof.cpp(18,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  MS5.vcxproj -> D:\C++_edit_comments\work_shops\OOP244_EnglishVersion\MS5\MS5\x64\Debug\MS5.exe

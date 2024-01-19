@@ -1,2 +1,0 @@
-D:\C++_edit_comments\work_shops\OOP245\MS5\MS5\x64\Debug\MS5.exe
-D:\C++_edit_comments\work_shops\OOP244_EnglishVersion\MS5\MS5\x64\Debug\MS5.exe
