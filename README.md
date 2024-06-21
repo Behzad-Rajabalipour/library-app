@@ -2,9 +2,9 @@
 
 This repository contains a library management application developed using C++. The application supports managing book records, user interactions, and various library functionalities.
 
-•	Added, removed, and updated publications, books, articles, and authors.
-•	Implemented check-in and check-out features for each client ID.
-•	Developed sorting functionality based on publication date, author, publication name, number of reviews, and more.
+•	Added, removed, and updated publications, books, articles, and authors. <br/>
+•	Implemented check-in and check-out features for each client ID. <br/>
+•	Developed sorting functionality based on publication date, author, publication name, number of reviews, and more. <br/>
 
 	 C++ - Code Review – Problem Solving – Debugging – Object-Oriented Programming (OPP) 
 
